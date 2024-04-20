@@ -1,6 +1,6 @@
-# React + Vite
+# Gif Browser App made with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this App you can enter a text in the search bar, press Enter key and 10 Gifs related to what you wrote will appear. Please note that all results will remain visible in the app, scroll down if you want to see them again.
 
 Currently, two official plugins are available:
 
