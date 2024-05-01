@@ -53,5 +53,8 @@ sketch
 # comment the following lines
 !.yarn/cache
 
+### dotenv ###
+.env
+
 # and uncomment the following lines
 # .pnp.*
